@@ -33,7 +33,7 @@ class DatabaseSeeder extends Seeder
                 'penulis' => 'Taylor Otwell',
                 'penerbit' => 'Informatika',
                 'tahun_terbit' => 2023,
-                'stok' => 10,
+                'stok' => 10,   
             ],
             [
                 'judul' => 'Basis Data',
